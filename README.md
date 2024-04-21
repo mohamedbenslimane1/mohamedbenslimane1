@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Mohamed ! </h1>
 <h3 align="left">A passionate Data Scientist and Consultant. I am currently pursuing a double Master’s degree in Data Science in an engineering school and business school. My academic background includes a Bachelor's and Master’s degrees in Applied Mathematics and Statistics at University. My professional experience is enriched by internships focused on Data Science, Financial and Strategy Consulting, where I have developed forecasting methods and implemented advanced data models for banking or consulting companies. My technical skills are robust, with advanced proficiency in Python, R, C++, SQL, VBA, and Excel.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedbenslimane1](https://github.com/mohamedbenslimane1)
